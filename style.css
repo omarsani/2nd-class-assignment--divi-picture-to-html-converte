@@ -1,0 +1,1369 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.main-container21 {
+    padding: 10px 0;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+    
+
+}
+
+.container20 {
+    width: 1050px;
+    margin: 0 auto;
+    overflow:hidden;
+
+
+
+}
+
+.logo {
+    width: 20%;
+    float: left;
+}
+
+.menu {
+    width: 80%;
+    float: left;
+
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    
+
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+
+
+}
+
+ul li a {
+    color:black;
+    text-decoration:none;
+    font-size:20px;
+    text-transform: lowercase;
+    display:block;
+    padding:14px;
+    
+}
+
+.mycontent {
+    width: 100%;
+    height: 380px;
+}
+
+.container {
+    width: 1030px;
+    margin: auto;
+    margin-top: 105px;
+
+
+}
+
+.pic {
+    width: 50%;
+    float: left;
+}
+
+.pic img {
+    padding: 10px;
+    width: 465px;
+    height: 258px;
+
+}
+
+.about-content {
+    width: 50%;
+    float: left;
+}
+
+.about-content p {
+    font-family: Aharoni;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+    margin-left: 35px;
+    opacity: 0.8;
+
+
+}
+
+.about-content p span {
+    font-weight: 50;
+}
+
+
+.about-content button {
+    border: none;
+    color: white;
+    background-color: #6F98CC;
+    border-radius: 50px;
+    padding: 18px 28px;
+    margin-left: 35px;
+    margin-top: 15px;
+
+
+}
+
+.main-container1 {
+    width: 100%;
+    height: 24000px;
+    background-color: #F7F9F7;
+    display: block;
+
+
+}
+
+.container1 {
+    width: 1200px;
+    height: 1170px;
+    background-color: #F7F9F7;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.build {
+    background-color: #F7F9F7;
+    width: 700px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.build h2 {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    width: 350px;
+    font-size: 45px;
+    font-family: Browallia New;
+    margin-bottom: 0;
+    margin-top: 80px;
+
+}
+
+.build p {
+    width: 460px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Segoe UI Semibold;
+    padding: 0 30px;
+    font-size: 17px;
+    margin-top: 0;
+    opacity: 0.5;
+
+}
+
+.mainconten-2 {
+    width: 1100px;
+    height: 970px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding-top: 0;
+    background-color: #F7F9F7;
+
+}
+
+.conten1left {
+    width: 33.33%;
+    height: 898px;
+    background-color: #F7F9F7;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+
+}
+
+.real {
+    margin: 0;
+    padding: 0;
+}
+
+.real h2 {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic;
+    margin-top: 0;
+    padding: 0;
+    opacity: 0.8;
+}
+
+.real p {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+
+
+}
+
+.customize {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.customize h2 {
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic;
+    margin-top: 0;
+    padding: 0;
+    opacity: 0.8;
+}
+
+.customize p {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.organize {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.organize h2 {
+    width: 225px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic;
+    margin-top: 0;
+    padding: 0;
+    opacity: 0.8;
+}
+
+.organize p {
+    width: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.contentelements {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.contentelements h2 {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic;
+    margin-top: 0;
+    padding: 0;
+    opacity: 0.8;
+}
+
+.contentelements p {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.little {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.little h2 {
+    width: 265px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic;
+    margin-top: 0;
+    padding: 0;
+    opacity: 0.8;
+}
+
+.little p {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.conten1top {
+    width: 33.33%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+
+}
+
+.conten1top img {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.conten1right {
+    width: 33.33%;
+    height: 898px;
+    background-color: #F7F9F7;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+.jutclick {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.justclick h2 {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic;
+    margin-top: 0;
+    padding: 0;
+    opacity: 0.8;
+}
+
+.justclick p {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.responsive {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.responsive h2 {
+    width: 225px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic;
+    margin-top: 0;
+    padding: 0;
+    opacity: 0.8;
+}
+
+.responsive p {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.global {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.global h2 {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic;
+    margin-top: 0;
+    padding: 0;
+    opacity: 0.8;
+}
+
+.global p {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.import {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.import h2 {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic;
+    margin-top: 0;
+    padding: 0;
+    opacity: 0.8;
+}
+
+.import p {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.premade {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.premade h2 {
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic;
+    margin-top: 0;
+    padding: 0;
+    opacity: 0.8;
+}
+
+.premade p {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+/* main contain part three start */
+
+.main-contenpicture {
+    width: 1100px;
+    height: 950px;
+    background-color: #F7F9F7;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.main-headconten {
+    width: 800px;
+    background-color: #F7F9F7;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-headconten .headconten {
+    width: 400px;
+    overflow: hidden;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-headconten .headconten h1 {}
+
+.headconten h1 span {
+    font-weight: 100;
+}
+
+.contenpicture {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.contenpicture1 {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    width: 290px;
+    float: left;
+    margin-left: 56px;
+    margin-top: 35px;
+}
+
+.contenpicture .contenpicture1 img {
+    width: 290px;
+    height: 165px;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.contenpicture1 h3 {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Corbel;
+    font-size: : 40px;
+    font-weight: bold;
+}
+
+.contenpicture1 p {
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.main-headconten1 {
+    width: 100%;
+    height: 70px;
+    background-color: #F7F9F7;
+    display: block;
+}
+
+.headconten1 {
+    width: 600px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headconten1 h2 {
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: 100;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.main-contenblock2 {
+    width: 1200px;
+    height: 12000px;
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.main-contenblock2 .contenblock2 {
+    width: 1200px;
+    height: 900px;
+    margin: 0;
+    padding: 0;
+    display: block;
+    background-color: #F7F9F7;
+
+}
+
+.contenblock-pictureleft {
+    width: 50%;
+    height: 850px;
+    background-color: #F7F9F7;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    float: left;
+
+}
+
+.pictureleft1 {
+    width: 470px;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+
+
+}
+
+.pictureleft1 img {
+    width: 470px;
+    height: 340px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.contenblock-textright {
+    width: 50%;
+    height: 850px;
+    background-color: #F7F9F7;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.textright1 {
+    width: 470px;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-left: 15px;
+}
+
+.textright1 h3 {
+    font-family: Arial Unicode MS;
+    font-weight: 200;
+    opacity: 0.8;
+}
+
+.textright1 p {
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.textright1 p span {
+    color: #F9439C;
+}
+
+.main-contenblock3picture {
+    width: 1066px;
+    height: 1815px;
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 0;
+
+}
+
+.main-contenhead2 {
+    width: 100%;
+    height: 100px;
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.contenhead2 {
+    width: 600px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenhead2 h2 {
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: 100;
+    text-align: center;
+    opacity: 0.8;
+    margin-top: 70px;
+}
+
+main-conten3 {
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.main-jhonny {
+    width: 50%;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+}
+
+.jhonny {
+    width: 470px;
+    height: 340px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+
+}
+
+.jhonny img {
+    width: 470px;
+    height: 340px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.jhonny h3 {
+    font-family: Arial Unicode MS;
+    font-weight: 200;
+    opacity: 0.8;
+    margin-left: 273px;
+    width: 250px;
+    overflow: hidden;
+
+}
+
+.niloy h3 {
+    margin-left: 0px;
+
+
+}
+
+.jhonny p {
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.jhonny button {
+    text-decoration: none;
+    color: white;
+    border: none;
+    border-radius: 40px;
+    background-color: #7E3BD0;
+    margin-top: 30px;
+    font-family: Corbel;
+    font-weight: bold;
+    padding: 11px 32px;
+    font-size: 17px;
+    opacity: 0.8;
+
+
+
+
+}
+
+.nuraz button {
+    margin-left: 220px;
+}
+
+.main-contenblock4picture {
+    width: 1201px;
+    height: 4000px;
+    background-color: #F7F9F7;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 0;
+}
+
+.main-headconten3 {
+    background-color: #F7F9F7;
+    width: 700px;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 100px;
+    display: block;
+}
+
+.main-headconten3 h3 {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    width: 350px;
+    font-size: 45px;
+    font-family: Browallia New;
+    margin-bottom: 0;
+    margin-top: 80px;
+    opacity: 0.8;
+    font-weight: 200;
+
+}
+
+.main-headconten3 p {
+    width: 460px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Segoe UI Semibold;
+    padding: 0 30px;
+    font-size: 17px;
+    margin-top: 0;
+    opacity: 0.5;
+}
+
+.main-contenpicture4 {
+    width: 800px;
+    height: 500px;
+    background-color: #F7F9F7;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.conten-picture4 {
+    width: 800px;
+    height: 440px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0;
+    padding: 0;
+
+}
+
+.conten-picture4 img {
+    width: 800px;
+    height: 440px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainconten-text10 {
+    width: 100%;
+    height: 470px;
+    background-color: #F7F9F7;
+    display: block;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.conten-text10 {
+    width: 1050px;
+    height: 470px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F7F9F7;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+
+.conten-text11 {
+    width: 33.33%;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+}
+
+.conten-text11 h3 {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: : 40px;
+    font-family: Arial Unicode MS;
+    font-weight: 500;
+    font-size: 22px;
+    opacity: :0.8;
+
+}
+
+.conten-text11 p {
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+    width: 90%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.conten-headtext12 {
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F7F9F7;
+    display: block;
+
+
+}
+
+.conten-headtext12 h2 {
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: 100;
+    text-align: center;
+    opacity: 0.8;
+    margin-top: 70px;
+    background-color: #F7F9F7;
+
+
+}
+
+.main-contenpictureblock3 {
+    width: 100%;
+    height: 1410px;
+    background-color: #F7F9F7;
+    display: block;
+    margin: 0;
+    padding: 0;
+
+}
+
+.contenpictureblock-left {
+    width: 33.33%;
+    height: 1400px;
+    background-color: #F7F9F7;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    float: left;
+    margin-top: 30px;
+
+}
+
+.contenpictureblockleft1 {
+    width: 100%;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+    display: block;
+    margin-top: 25px;
+
+}
+
+.contenpictureblockleft1 .image-sizedefine {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenpictureblockleft1 img {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.contenpictureblockleft1 h3 {
+    font-family: Arial Unicode MS;
+    font-weight: 200;
+    opacity: 0.7;
+    width: 150px;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+
+}
+
+.contenpictureblockleft1 p {
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+    width: 75%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenpictureblockleft1 .button-define {
+    width: 200px;
+    height: auto;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.contenpictureblockleft1 .button-define button {
+    text-decoration: none;
+    color: white;
+    border: none;
+    border-radius: 40px;
+    background-color: #7E3BD0;
+    margin-top: 15px;
+    font-family: Corbel;
+    font-weight: bold;
+    padding: 11px 32px;
+    font-size: 17px;
+    opacity: 0.8;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+
+
+}
+
+.contenpictureblock-top {
+    width: 33.33%;
+    height: 1400px;
+    background-color: #F7F9F7;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    float: left;
+    margin-top: 30px;
+}
+
+.contenpictureblocktop2 {
+    width: 100%;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+    display: block;
+    margin-top: 25px;
+}
+
+.contenpictureblocktop2 .image-sizedefine {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenpictureblocktop2 img {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenpictureblocktop2 h3 {
+    font-family: Arial Unicode MS;
+    font-weight: 200;
+    opacity: 0.7;
+    width: 150px;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.contenpictureblocktop2 p {
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+    width: 75%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenpictureblocktop2 .button-define {
+    width: 200px;
+    height: auto;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.contenpictureblocktop2 .button-define button {
+    text-decoration: none;
+    color: white;
+    border: none;
+    border-radius: 40px;
+    background-color: #7E3BD0;
+    margin-top: 15px;
+    font-family: Corbel;
+    font-weight: bold;
+    padding: 11px 32px;
+    font-size: 17px;
+    opacity: 0.8;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+.contenpictureblock-right {
+    width: 33.33%;
+    height: 1400px;
+    background-color: #F7F9F7;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    float: left;
+    margin-top: 30px;
+}
+
+.contenpictureblockright3 {
+    width: 100%;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+    display: block;
+    margin-top: 25px;
+}
+
+.contenpictureblockright3 .image-sizedefine {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenpictureblockright3 img {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenpictureblockright3 h3 {
+    font-family: Arial Unicode MS;
+    font-weight: 200;
+    opacity: 0.7;
+    width: 150px;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.contenpictureblockright3 p {
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+    width: 75%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenpictureblockright3 .button-define {
+    width: 200px;
+    height: auto;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenpictureblockright3 .button-define button {
+    text-decoration: none;
+    color: white;
+    border: none;
+    border-radius: 40px;
+    background-color: #7E3BD0;
+    margin-top: 15px;
+    font-family: Corbel;
+    font-weight: bold;
+    padding: 11px 32px;
+    font-size: 17px;
+    opacity: 0.8;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+.main-textconten15 {
+    width: 100%;
+    height: 625px;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: #F7F9F7;
+
+}
+
+.text-conten16 {
+    background-color: #F7F9F7;
+    width: 700px;
+    height: 170px;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 100px;
+    display: block;
+
+}
+
+.text-conten16 h3 {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    width: 350px;
+    font-size: 45px;
+    font-family: Browallia New;
+    margin-bottom: 0;
+    margin-top: 80px;
+    opacity: 0.8;
+    font-weight: 200;
+}
+
+.text-conten16 p {
+    width: 460px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Segoe UI Semibold;
+    padding: 0 30px;
+    font-size: 17px;
+    margin-top: 0;
+    opacity: 0.5;
+}
+
+.text-conten17 {
+    width: 100%;
+    height: 350px;
+    margin: 0;
+    padding: 0;
+    background-color: #F7F9F7;
+
+}
+
+.text-contenblock2 {
+    width: 50%;
+    height: 300px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+}
+
+.text-contenblock2 h3 {
+    font-family: Arial Unicode MS;
+    font-weight: 200;
+    opacity: 0.8;
+    width: 250px;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.text-contenblock2 p {
+    font-family: Corbel;
+    font-weight: bold;
+    opacity: 0.8;
+    width: 75%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.text-contenblock2 button {
+    text-decoration: none;
+    color: white;
+    border: none;
+    border-radius: 40px;
+    background-color: #7E3BD0;
+    margin-top: 30px;
+    font-family: Corbel;
+    font-weight: bold;
+    padding: 7px 20px;
+    font-size: 17px;
+    opacity: 0.8;
+    margin: 0;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.text-contenblock2 .button-size {
+    width: 300px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+
+}
